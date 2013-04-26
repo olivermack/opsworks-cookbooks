@@ -1,9 +1,9 @@
 [submodule "couchdb"]
 	path = couchdb
-	url = git@github.com:opscode-cookbooks/couchdb.git
+	url = https://github.com/opscode-cookbooks/couchdb.git
 [submodule "nginx"]
 	path = nginx
-	url = git@github.com:opscode-cookbooks/nginx.git
+	url = https://github.com/opscode-cookbooks/nginx.git
 [submodule "php"]
 	path = php
-	url = git@github.com:opscode-cookbooks/php.git
+	url = https://github.com/opscode-cookbooks/php.git
